@@ -1,4 +1,4 @@
-This is a wedding website that I designed and built [catharineandsean.com] (http://www.catharineandsean.com/)
+This is a wedding website that I designed and built [catharineandsean] (http://www.catharineandsean.com/)
 
 
 ## Technologies
